@@ -1,6 +1,6 @@
 # Getting Started
 
-The course uses Python with the Visual Studio Code (VSCode) integrated development environment (IDE) and Anaconda package manager. In the following we explain how to set-up your development environment, and how to get started with the assignments. The setup and assignments are tested for Windows 10 and the respective versions as mentioned below. Unfortunately we cannot support other versions or operating systems. In case of problems, please first consult the FAQ on the Canvas discussions page.
+The course uses Python with the Visual Studio Code (VSCode) integrated development environment (IDE) and Anaconda package manager. In the following we explain how to set-up your development environment, and how to get started with the assignments. The setup and assignments are tested for Windows 10 and the respective versions as mentioned below. Unfortunately we cannot support other versions or operating systems. In case of problems, please first consult the FAQ on Piazza.
 
 
 _Install VSCode_
